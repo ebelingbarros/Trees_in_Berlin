@@ -14,7 +14,7 @@ This is the Github repo of a small project, in which my objective was to write a
 However, the visualisations I included in the story were created in Tableau, and are available by [accessing my Tableau page](https://public.tableau.com/profile/francisco.ebeling#!/). 
 
 ## Results
-The main findings of the code can be found at the post available [here](https://ebelingbarros.medium.com/global-warming-and-berlins-trees-eea96cfbf6ee). 
+The main findings of the project can be found at the post available [here](https://ebelingbarros.medium.com/global-warming-and-berlins-trees-eea96cfbf6ee). 
 
 ## Licensing, Authors, Acknowledgements
 The data was obtained from the [KNMI Climate Explorer](https://climexp.knmi.nl/start.cgi) and from the [Berliner Senate](https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/daten_fakten/uebersichten/index.shtml). All photographies used are mine. 
