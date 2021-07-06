@@ -16,7 +16,7 @@ However, the visualisations I included in the story were created in Tableau, and
 ## Results
 The main findings of the code can be found at the post available [here](https://ebelingbarros.medium.com/global-warming-and-berlins-trees-eea96cfbf6ee). 
 
-## Credit
+## Licensing, Authors, Acknowledgements
 The data was obtained from the [KNMI Climate Explorer](https://climexp.knmi.nl/start.cgi) and from the [Berliner Senate](https://www.berlin.de/senuvk/umwelt/stadtgruen/stadtbaeume/de/daten_fakten/uebersichten/index.shtml). All photographies used are mine. 
 
 
